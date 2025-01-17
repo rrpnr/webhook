@@ -2,7 +2,7 @@ const { Client } = require("@notionhq/client");
 const axios = require("axios");
 
 // Initialize Notion client
-const notion = new Client({ auth: "your-notion-integration-token" });
+const notion = new Client({ auth: "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" });
 
 // Replace with your database ID
 const databaseId = "ceb6fd5fa1b94772966ebaffda8fd9fb";
