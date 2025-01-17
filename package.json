@@ -1,0 +1,12 @@
+{
+  "name": "notion-webhook-server",
+  "version": "1.0.0",
+  "description": "Webhook server for tracking Notion changes",
+  "main": "webhook-server.js",
+  "scripts": {
+    "start": "node webhook-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
